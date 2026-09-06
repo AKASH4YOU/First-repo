@@ -1,0 +1,57 @@
+/*       * {   ye pura ko blue mai  change kar dega mtlb ye * ko bolte hain universal  
+             color: blue;
+             }        */
+h1 {
+    color: yellow;
+}
+
+#headline1 {
+    color: black;
+}
+
+#headline1 {
+    font-weight: 900;
+}
+
+#headline2 {
+    color: blueviolet;
+}
+
+#headline2 {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  /*ye font ko change kar dega aur isme bhot type ki font hai itna sara likhne ka mtlb hai ki ye ek font na chale to dusare chale ye depend karta hai browser pe*/   
+}
+
+#headline3 {
+    color: chocolate;
+}
+
+#headline3 {
+    font-size: 50px;
+}
+
+.myclass {
+    color: darkcyan;
+}
+
+p {
+    color:chartreuse;
+}
+
+button {
+    color: brown;
+    background-color: green;
+}
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: blue underline;
+}
+
+a {
+    text-decoration: none;
+}
+
